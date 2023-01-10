@@ -123,7 +123,7 @@ The JVM performs following operations:-->
 1) Loads code
 2) Verifies code
 3) Executes code 
-4)Provides runtime environment
+4) Provides runtime environment
 
 
 
