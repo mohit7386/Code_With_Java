@@ -120,10 +120,10 @@ Which of the following operations JVM perform?
 
 The JVM performs following operations:-->
 
-Loads code
-Verifies code
-Executes code 
-Provides runtime environment
+1) Loads code
+2) Verifies code
+3) Executes code 
+4)Provides runtime environment
 
 
 
