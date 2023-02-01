@@ -1,7 +1,7 @@
 Java :-
 Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language. It is a General purpose programming language...Java Code can Run Everywhere on any system it follows WORA(Write once run everywhere).It Generates the byte code the compiled code where it is portable you can run on any system without recompiling the program..
 java is both Compiled and Interpreted language..
-
+------------------------------------------------------------------------------------------------
 Java is not a Pure Object oriented programming language Why??
 
 Pure Object Oriented Language or Complete Object Oriented Language are Fully Object Oriented Language which supports or have features which treats everything inside program as objects. It doesn’t support primitive datatype(like int, char, float, bool, etc.). There are seven qualities to be satisfied for a programming language to be pure Object Oriented. They are:
@@ -13,7 +13,7 @@ Abstraction
 All predefined types are objects
 All user defined types are objects
 All operations performed on objects must be only through methods exposed at the objects.
-
+-------------------------------------------------------------------------------------------------
 Platform:- Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.
 ----------------------------------------------------------------------
 Simple.java -> Sample example of Java Code 
@@ -54,7 +54,7 @@ Multithreaded
 Secured 
 Platform Independent
 Dynamic
-
+--------------------------------------------------------------------------------------------
 java is Secured Why??
 
 Java is best known for its security. With Java, we can develop virus-free systems. Java is secured because:
@@ -63,12 +63,12 @@ Java is best known for its security. With Java, we can develop virus-free system
 2) Java Programs run inside a virtual machine sandbox
 3) Classloader: Classloader in Java is a part of the Java Runtime Environment (JRE) which is used to load Java classes into the Java Virtual Machine dynamically.
 4) Bytecode Verifier: It checks the code fragments for illegal code that can violate access rights to objects.
-Security Manager: It determines what resources a class can access such as reading and writing to the local disk.
-
+5) Security Manager: It determines what resources a class can access such as reading and writing to the local disk.
+------------------------------------------------------------------------------------------------------
 What is JDK and JRE?
 JDK:- Java Development Kit is a Collection of tools used for developing and running java programs..
 JRE:- Java Runtime Environment helps in executing the program which is developed in java...
-
+---------------------------------------------------------------------------------------------------------------
 Why Java is robust?
 
 The English mining of Robust is strong. Java is robust because:
@@ -99,7 +99,7 @@ Source code Information:-
 6) String[] args or String args[] is used for command line argument. We will discuss it in coming section.
 
 7) System.out.println() is used to print statement. Here, System is a class, out is an object of the PrintStream class, println() is a method of the PrintStream class. We will discuss the internal working of System.out.println() statement in the coming section.
-
+-----------------------------------------------------------------------------------------------------------------------
 What happens at runtime in java?
 Following steps are performed :-
 Source code Converted it into a class file by the compilation process and the steps shown below-
