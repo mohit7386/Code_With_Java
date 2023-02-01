@@ -24,6 +24,16 @@ class Simple{
     }  
 }  
 Class name and file name should be same in java...It is Mandatory to same name
+Another Method to write the java code :-
+
+public class Code1{
+    public static void main(String...args) { // here you can also put three dots in place of square brackets..
+        System.out.println("Hey Jarvis!");
+        System.out.print("Hello Sir How Are You!");
+
+    
+    }
+}
 -----------------------------------------------------------------------
 Four types of applications we can create with java language :-
 
