@@ -24,6 +24,7 @@ class Simple{
     }  
 }  
 Class name and file name should be same in java...It is Mandatory to same name
+-----------------------------------------------------------------
 Another Method to write the java code :-
 
 public class Code1{
