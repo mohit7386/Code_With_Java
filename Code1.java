@@ -8,4 +8,5 @@ public class Code1{
         System.out.println(6/3);
         System.out.println(9%4);
 }
+
 }
