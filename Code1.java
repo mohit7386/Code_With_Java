@@ -6,7 +6,7 @@ public class Code1{
         System.out.println(5*5);
         System.out.println(4-3);
         System.out.println(6/3);
-        System.out.println(9%4);
+        System.out.println(9%4); // Here the result is our remainder
 }
 
 }
