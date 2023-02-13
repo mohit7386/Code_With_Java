@@ -144,5 +144,9 @@ Variable is a name of memory location. There are three types of variables in jav
 
 There are two types of data types in Java: primitive and non-primitive.
 
+What is Type Casting?
 
+In Java, type casting is a method or process that converts a data type into another data type in both ways manually and automatically.
+
+Java is a Object Oriented Language Because Everything in java is an object like example we (System.out.println) So , If we write an object we need class.  
 
