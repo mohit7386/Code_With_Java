@@ -149,4 +149,50 @@ What is Type Casting?
 In Java, type casting is a method or process that converts a data type into another data type in both ways manually and automatically.
 
 Java is a Object Oriented Language Because Everything in java is an object like example we (System.out.println) So , If we write an object we need class.  
+----------------------------------------------------
+For Data Types :- Data types specifies the differernt sizes and What type of values that can be stored in our in the variable..
+example- Int , float, char, short ,long, boolean etc.
+------------------
+There are two types of data types in Java:-
+
+Primitive data types: The primitive data types include boolean, char, byte, short, int, long, float and double.
+
+Non-primitive data types: The non-primitive data types include Classes, Interfaces, and Arrays.
+---------------------------------------------------
+Operators in Java:--
+Operator in Java is a symbol that is used to perform operations. For example: +, -, *, / etc.
+
+There are many types of operators in Java which are given below:
+
+Unary Operator,
+Arithmetic Operator,
+Shift Operator,
+Relational Operator,
+Bitwise Operator,
+Logical Operator,
+Ternary Operator and
+Assignment Operator.
+----------------------------------------------------
+Java Operator Precedence:-
+
+Operator Type	Category	Precedence
+Unary	postfix	expr++ expr--
+prefix	++expr --expr +expr -expr ~ !
+Arithmetic	multiplicative	* / %
+additive	+ -
+Shift	shift	<< >> >>>
+Relational	comparison	< > <= >= instanceof
+equality	== !=
+Bitwise	bitwise AND	&
+bitwise exclusive OR	^
+bitwise inclusive OR	|
+Logical	logical AND	&&
+logical OR	||
+Ternary	ternary	? :
+Assignment	assignment	= += -= *= /= %= &= ^= |= <<= >>= >>>=
+-----------------------------------------------
+We cannot convert float to int. We can only Convert int to float 
+---------------------------------------
+double num = 5.6;
+float num =5.6f; // here f shows that it is a float type value. If you are not using f then java will automatically set this value to float. Java already set on to the double not float ...
 
