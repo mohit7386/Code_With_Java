@@ -194,5 +194,28 @@ Assignment	assignment	= += -= *= /= %= &= ^= |= <<= >>= >>>=
 We cannot convert float to int. We can only Convert int to float 
 ---------------------------------------
 double num = 5.6;
-float num =5.6f; // here f shows that it is a float type value. If you are not using f then java will automatically set this value to float. Java already set on to the double not float ...
+float num =5.6f; // here f shows that it is a float type value. If you are not using f then java will automatically set this value to double. Java already set on to the double not float ...
+----------------------------------------------
+Java follows UNICODE System In which it supports all world languages.. In java Char has 2 Bytes because of UNICODE system..But in C char has only 1 Byte..
+-------------------------------------------------
+Java Keywords:-
+Keywords are the reserved words they are predefined words by java so they cannot be used as a variable or object name or class name..
+for Example :-
+Abstract
+boolean
+break
+case
+byte
+catch
+class 
+continue
+default
+final 
+else
+int
+float 
+these all are reserved words we cannot use it as a variable..
+----------------------------------------------
+Taking User input:-
+First yoy need to import java after that you can use scanner class.... 
 
