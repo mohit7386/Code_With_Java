@@ -1,17 +1,12 @@
-import java.util.Scanner;  
-public class Code10   
-{  
-public static void main(String[] args)  
-{  
-Scanner sc= new Scanner(System.in);    //System.in is a standard input stream  
-System.out.print("Enter first number- ");  
-int a= sc.nextInt();  
-System.out.print("Enter second number- ");  
-int b= sc.nextInt();  
-System.out.print("Enter third number- ");  
-int c= sc.nextInt();  
-int d=a+b+c;  
-System.out.println("Total= " +d);  
-sc.close();
-}  
-}  
+import java.util.*;
+public class Code10 {
+    public static void main(String...args){
+        Scanner sc= new Scanner(System.in);
+        System.out.println("Enter the radius of the circle:-");
+        float rad=sc.nextFloat();
+        float area =(float) (3.14*rad*rad);
+        System.out.println("The Area of circle is:- " +area);
+        sc.close();
+    }
+    
+}
