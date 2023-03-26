@@ -13,7 +13,10 @@ public class Code7 {
         System.out.println(u);
         System.out.println("******************");
         char e='a';
-        e++;
+        e++; // Value is b
+        ++e; // Value is c
+        e++; // Value is d
+        ++e; // Value is e
         System.out.println(e);
 
 

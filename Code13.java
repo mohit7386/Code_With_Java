@@ -4,8 +4,8 @@ public class Code13 {
         Scanner sc=new Scanner(System.in);
         System.out.println("Find the perimeter of an equilateral triangle:-");
         System.out.println("Enter the side of an equilateral triangle:-");
-        int s=sc.nextInt();
-        int peri=3*s;
+        float s=sc.nextInt();
+        float peri=3*s;
         System.out.println("The perimeter of an equilateral triangle is= " +peri);
         sc.close();
     }

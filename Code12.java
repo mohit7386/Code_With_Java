@@ -1,3 +1,4 @@
+// Program to print the perimeter of the parallelogram 
 import java.util.*;
 public class Code12 {
     public static void main(String...args){

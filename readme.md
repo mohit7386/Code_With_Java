@@ -217,5 +217,17 @@ float
 these all are reserved words we cannot use it as a variable..
 ----------------------------------------------
 Taking User input:-
-First yoy need to import java after that you can use scanner class.... 
+First you need to import java after that you can use scanner class.... 
+
+Sample Code for taking Input from the User--
+import java.util.*;
+public class Code1{
+    public static void main(String...args){
+        Scanner sc=new Scanner(System.in);
+        int a=sc.nextInt();
+        System.out.println(a);
+    }
+} 
+-----------------------------------------------
+
 

@@ -1,3 +1,4 @@
+// Taking User Input and Print the perimeter and area of the rectangle
 import java.util.*;
 public class Code11 {
     public static void main(String...args){
@@ -7,7 +8,7 @@ public class Code11 {
         int b=sc.nextInt();
         int area =l*b;
         int peri=2*(l+b);
-        System.out.println("The area of the rectangle is=6" +area);
+        System.out.println("The area of the rectangle is=" +area);
         System.out.println("The perimeter of the rectangle is=" +peri);
         sc.close();
     }
