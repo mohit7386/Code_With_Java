@@ -7,7 +7,7 @@ public class Code8 {
         System.out.println(++x);
         System.out.println(--x);
         System.out.println("Checking Some Arithematic Calculations");
-        System.out.println(10*10/5+3-1*4/2);  // Here BODMASS apply Divide, multiply, addition , subtraction..
+        System.out.println(10*10/5+3-1*4/2);  // Here java not using BODMAS Java Using Operator Priority
         System.out.println(6/3+9-8*4/2);
     }
     

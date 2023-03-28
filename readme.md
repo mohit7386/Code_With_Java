@@ -228,6 +228,18 @@ public class Code1{
         System.out.println(a);
     }
 } 
------------------------------------------------
+--------------------------------------------------------------------------
+When we use Suppose for example :-
+ String name= sc.next();
+ 
+ //Here next() can only accepts one token at a time so if you want to print your full name then you need to Write the Statememt :-
 
+String name =sc.nextLine(); 
+
+// here It takes the whole line and print your full name..
+----------------------------------------------------------------------------------
+Operator Priority:-
+Java Not follows the BODMASS Rule It follows Operator Priority:-
+ *,/,%,+,-
+ These are the sequence wise priority for Solving some Arithematic operations...
 
