@@ -2,7 +2,7 @@ import java.util.*;
 public class Code27 {
     public static void main(String...args){
         Scanner sc =new Scanner(System.in);
-        System.out.println("Checking the two Numbers which is Divisible by 7: ");
+        System.out.println("Checking the Number is Divisible by 7 or not: ");
         System.out.println("------------------------------------------------------------");
         System.out.println("Enter the first Number:");
         int num1=sc.nextInt();
