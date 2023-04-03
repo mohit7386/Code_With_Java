@@ -242,4 +242,20 @@ Operator Priority:-
 Java Not follows the BODMASS Rule It follows Operator Priority:-
  *,/,%,+,-
  These are the sequence wise priority for Solving some Arithematic operations...
+ ===================================================================================================
+ When you can Convert the Integer value to the Byte value through typecasting:-
+ int x=15;
+ byte b =(byte)x; // here Integer value Convert it into the byte value..
+ 
+Another Example:-
+int x=257;
+byte c=(byte)x; // here the result is 1 Because it performs Modulo Operator and gives 1 as a remainder 
+=======================================================================================================
+Type Promotions:-
+byte a = 10;
+byte b = 30;
+int result= a*b; // but here the result will go outer the range of the byte so java will promote the value to the integer and it will print 300 in the result...
+System.out.println(result);
+
+
 
