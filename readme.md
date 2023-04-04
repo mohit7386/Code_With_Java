@@ -256,6 +256,38 @@ byte a = 10;
 byte b = 30;
 int result= a*b; // but here the result will go outer the range of the byte so java will promote the value to the integer and it will print 300 in the result...
 System.out.println(result);
+=============================================================================================
+Conditional Statements:--
+if (Condition)
+Statement;
+========================================================================
+if(Condition)
+statement;
+else
+statement;
+========================================================================================
+if(Condition)
+statement;
+else if(Conditions) //It is used for multiple Conditions 
+statement;
+========================================================================================================
+Switch Case:-
+Syntax:-
+switch(Variable){ //Variable should be integer or Character 
+case 1:
+statement;  // Printing the value
+break;
+case 2:
+statement;
+break;     //Break is used for get out of the button or End of the Statement or termination..
+case 3:
+statement;
+break;
+default:
+statement;
+}
+================================================================================================================
+
 
 
 
