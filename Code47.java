@@ -4,7 +4,7 @@ public class Code47 {
         System.out.println("Which number of table you want?");
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
-        System.out.println(" ");
+        System.out.println("");
         int table=0;
         System.out.println("Table of " +num+ " is: \n");
         for(int i=1;i<=10;i++){

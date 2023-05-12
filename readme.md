@@ -287,7 +287,33 @@ default:
 statement;
 }
 ================================================================================================================
+Loops :- loops are used to repeat or iterate the given task....
+Types of loops and their Syntax:-
+1) for loop -
+Syntax:-
+for(i=1;i<=n;i++){
 
+}
+2) while loop -
+Syntax:-
+while(i<2){
+    Sout;
+    i++/i--;
+}
+3) do while loop -
+Syntax:-
+do{
+    Sout;
+    i++/i--;
+}
+while(i<2);
+===============================================================================================================
+Patterns:-
+********
+********
+********
+********
 
+this is the pattern we use any loop for printing the star pattern or any other kind of pattern.
 
 
